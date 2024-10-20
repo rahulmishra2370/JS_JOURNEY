@@ -11,3 +11,4 @@ const person = {
 // Accessing the method
 console.log(person.fullName()); // Output: John Doe
 // 19 0ct
+// 20 0CT
