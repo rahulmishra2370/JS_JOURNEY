@@ -12,3 +12,4 @@ const person = {
 console.log(person.fullName()); // Output: John Doe
 // 19 0ct
 // 20 0CT
+// 21 oct
