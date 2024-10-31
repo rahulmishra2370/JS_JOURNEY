@@ -16,3 +16,4 @@ console.log(person.fullName()); // Output: John Doe
 // 22 oct
 //24 oct
 //25 oct
+// AJ DIWALI HAI SIRF PUSH MAAR RHA HU
